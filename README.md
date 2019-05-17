@@ -1,11 +1,9 @@
 # Título del trabajo
-
-Descripción breve del proyecto a realizar (2-3 frases).
+El proyecto consiste en una caja fuert
+Solicita la contraseña, te permite cambiarla y posee un codigo de seguridad en caso de perder tres intentos de introducción de la contraseña.
 
 ## Integrantes del equipo
-
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
-
+Sergio Delgado-Corredor Heras.
+Billy Avellán Salazar.
 ## Objetivos del trabajo
-
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Mostrar nuestros conocimientos adquiridos de clase y de la informacion que recopilamos sobre arduino.
